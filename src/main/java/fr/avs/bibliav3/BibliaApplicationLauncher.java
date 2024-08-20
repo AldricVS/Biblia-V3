@@ -9,8 +9,6 @@ package fr.avs.bibliav3;
 public class BibliaApplicationLauncher {
 
 
-    // TODO this should be better ?
-    // https://github.com/thomasdarimont/spring-labs/blob/master/spring-boot-javafx/src/main/java/demo/App.java
     public static void main(String[] args) {
         BibliaApplication.main(args);
     }
