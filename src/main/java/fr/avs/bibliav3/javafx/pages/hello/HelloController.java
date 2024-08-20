@@ -1,4 +1,4 @@
-package fr.avs.bibliav3;
+package fr.avs.bibliav3.javafx.pages.hello;
 
 import fr.avs.bibliav3.config.properties.TestProperties;
 import fr.avs.bibliav3.javafx.annotations.FXMLController;
